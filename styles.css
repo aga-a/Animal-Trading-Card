@@ -1,0 +1,35 @@
+#outer {
+	border: 1px solid grey;
+	padding: 1em;
+	margin: 2px;
+	width: 300px;
+	box-shadow: 5px 5px lightgray;
+}
+
+.inner {
+	border: 1px solid grey;
+	padding: 0.5em;
+
+}
+
+img {
+	width: 300px;
+	padding: 5px 0px 5px;
+}
+
+span {
+	font-weight: bold;
+}
+
+.italic {
+	text-emphasis: italic;
+}
+
+li {
+	list-style-type: none;
+	text-align: left;
+}
+
+p {
+	padding: 1px 0px 1px;
+}
